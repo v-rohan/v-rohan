@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm V Rohan Rao.
 
-<!--
-**v-rohan/v-rohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔭 I’m currently working on Online-Judge, for GNU/Linux User's Group.
 
-Here are some ideas to get you started:
+#### 🌱 I’m currently learning Large Scale web deployment via Kubernetes, and basics of Pyhton.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 I've made projects on Nodejs, Vuejs and React!
+
+#### 📫 How to reach me:
+
+#####   You can reach me on my personal email at rohanrao.dec11@gmail.com
+
+#####  😄 Pronouns: He/Him
