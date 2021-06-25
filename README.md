@@ -2,8 +2,6 @@
 
 #### 🔭 I’m currently working on Online-Judge, for GNU/Linux User's Group.
 
-#### 🌱 I’m currently learning Large Scale web deployment via Kubernetes, and basics of Pyhton.
-
 #### 🌱 I've made projects on Nodejs, Vuejs and React, a few simple scripts in Python!
 
 #### 📫 How to reach me:
