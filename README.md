@@ -11,4 +11,6 @@
 <br/>
 <p align = 'center'>
 <img src="https://komarev.com/ghpvc/?username=v-rohan&color=red" />
+<br/>
+<img src="https://github.com/v-rohan/git-stats/blob/master/generated/languages.svg" />
 </p>
