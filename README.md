@@ -15,10 +15,10 @@
 <p align = 'center'>
 <img src="https://komarev.com/ghpvc/?username=v-rohan&color=red" />
 <br/>
-<img src="https://raw.githubusercontent.com/v-rohan/stats/830c5e3fe9c044cced6524e639dda553394a1db8/profile-summary-card-output/github/0-profile-details.svg?token=ANR5MS5S5X5XKQMRVRRD3WTBL4RN2"/>
+<img src="https://github.com/v-rohan/stats/blob/master/profile-summary-card-output/github/0-profile-details.svg"/>
 <br/>
-<img src="https://raw.githubusercontent.com/v-rohan/stats/830c5e3fe9c044cced6524e639dda553394a1db8/profile-summary-card-output/github/1-repos-per-language.svg?token=ANR5MS2X65HK7BXPWWNSF2DBL4RY2" />
-<img src="https://raw.githubusercontent.com/v-rohan/stats/830c5e3fe9c044cced6524e639dda553394a1db8/profile-summary-card-output/github/2-most-commit-language.svg?token=ANR5MSZ44VV3S6GQWUIGE43BL4R2K" />
+<img src="https://github.com/v-rohan/stats/blob/master/profile-summary-card-output/github/1-repos-per-language.svg" />
+<img src="https://github.com/v-rohan/stats/blob/master/profile-summary-card-output/github/2-most-commit-language.svg" />
  <br/>
-  <img src="https://raw.githubusercontent.com/v-rohan/stats/830c5e3fe9c044cced6524e639dda553394a1db8/profile-summary-card-output/github/3-stats.svg?token=ANR5MS7UOMAOTXKVY7UUCVDBL4R5A" />
+  <img src="https://github.com/v-rohan/stats/blob/master/profile-summary-card-output/github/3-stats.svg" />
 </p>
